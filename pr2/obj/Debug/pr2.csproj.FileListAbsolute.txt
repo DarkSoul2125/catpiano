@@ -1,0 +1,24 @@
+C:\Users\berez\source\repos\pr2\pr2\bin\Debug\pr2.exe.config
+C:\Users\berez\source\repos\pr2\pr2\bin\Debug\pr2.exe
+C:\Users\berez\source\repos\pr2\pr2\bin\Debug\pr2.pdb
+C:\Users\berez\source\repos\pr2\pr2\obj\Debug\pr2.csproj.AssemblyReference.cache
+C:\Users\berez\source\repos\pr2\pr2\obj\Debug\pr2.Form1.resources
+C:\Users\berez\source\repos\pr2\pr2\obj\Debug\pr2.Properties.Resources.resources
+C:\Users\berez\source\repos\pr2\pr2\obj\Debug\pr2.csproj.GenerateResource.cache
+C:\Users\berez\source\repos\pr2\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+C:\Users\berez\source\repos\pr2\pr2\obj\Debug\pr2.exe
+C:\Users\berez\source\repos\pr2\pr2\obj\Debug\pr2.pdb
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\bin\Debug\pr2.exe.config
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\bin\Debug\pr2.exe
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\bin\Debug\pr2.pdb
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.csproj.AssemblyReference.cache
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.csproj.SuggestedBindingRedirects.cache
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.Form1.resources
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.Properties.Resources.resources
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.csproj.GenerateResource.cache
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.exe
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.pdb
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\minAd\Desktop\pract(3 kurs 2 sem)\pract2\pr2\obj\Debug\pr2.csproj.CopyComplete
